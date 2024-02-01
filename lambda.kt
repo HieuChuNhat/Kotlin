@@ -1,0 +1,1 @@
+val waterFilter = {level: Int -> level / 2}
